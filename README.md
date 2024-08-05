@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkut</h1>
 <h3 align="center">React Native developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Electron,Bun JS**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React, React Native**
 
